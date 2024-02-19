@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mobiledev</string>
+    <string name="user">Lev Gerasimov</string>
+    <string name="b1">Name</string>
+    <string name="b2">Group</string>
+    <string name="b3">Intent</string>
+    <string name="b4">Set</string>
+    <string name="group">IKBO-11-22</string>
+    <string name="back">Back</string>
+    <string name="sec_intent">Second Intent</string>
+</resources>
